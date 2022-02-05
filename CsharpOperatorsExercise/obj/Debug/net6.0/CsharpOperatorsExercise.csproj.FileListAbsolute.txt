@@ -1,0 +1,15 @@
+C:\Users\guill\repos\CsharpOperatorsExercise\CsharpOperatorsExercise\bin\Debug\net6.0\CsharpOperatorsExercise.exe
+C:\Users\guill\repos\CsharpOperatorsExercise\CsharpOperatorsExercise\bin\Debug\net6.0\CsharpOperatorsExercise.deps.json
+C:\Users\guill\repos\CsharpOperatorsExercise\CsharpOperatorsExercise\bin\Debug\net6.0\CsharpOperatorsExercise.runtimeconfig.json
+C:\Users\guill\repos\CsharpOperatorsExercise\CsharpOperatorsExercise\bin\Debug\net6.0\CsharpOperatorsExercise.dll
+C:\Users\guill\repos\CsharpOperatorsExercise\CsharpOperatorsExercise\bin\Debug\net6.0\ref\CsharpOperatorsExercise.dll
+C:\Users\guill\repos\CsharpOperatorsExercise\CsharpOperatorsExercise\bin\Debug\net6.0\CsharpOperatorsExercise.pdb
+C:\Users\guill\repos\CsharpOperatorsExercise\CsharpOperatorsExercise\obj\Debug\net6.0\CsharpOperatorsExercise.csproj.AssemblyReference.cache
+C:\Users\guill\repos\CsharpOperatorsExercise\CsharpOperatorsExercise\obj\Debug\net6.0\CsharpOperatorsExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guill\repos\CsharpOperatorsExercise\CsharpOperatorsExercise\obj\Debug\net6.0\CsharpOperatorsExercise.AssemblyInfoInputs.cache
+C:\Users\guill\repos\CsharpOperatorsExercise\CsharpOperatorsExercise\obj\Debug\net6.0\CsharpOperatorsExercise.AssemblyInfo.cs
+C:\Users\guill\repos\CsharpOperatorsExercise\CsharpOperatorsExercise\obj\Debug\net6.0\CsharpOperatorsExercise.csproj.CoreCompileInputs.cache
+C:\Users\guill\repos\CsharpOperatorsExercise\CsharpOperatorsExercise\obj\Debug\net6.0\CsharpOperatorsExercise.dll
+C:\Users\guill\repos\CsharpOperatorsExercise\CsharpOperatorsExercise\obj\Debug\net6.0\ref\CsharpOperatorsExercise.dll
+C:\Users\guill\repos\CsharpOperatorsExercise\CsharpOperatorsExercise\obj\Debug\net6.0\CsharpOperatorsExercise.pdb
+C:\Users\guill\repos\CsharpOperatorsExercise\CsharpOperatorsExercise\obj\Debug\net6.0\CsharpOperatorsExercise.genruntimeconfig.cache
